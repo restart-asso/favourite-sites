@@ -1,0 +1,105 @@
+body {
+  background-color: #215e4f;
+  color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+
+p {
+  padding: 15px;
+}
+
+h1 {
+  font-size: 36px;
+  padding: 15px;
+  color: white;
+  background-color: #000000;
+}
+
+h2 {
+  font-size: 24px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.8px;
+}
+
+th {
+  border: 2px solid #cab8a5;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 2px solid #cab8a5;
+  width: 300px;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+
+  width: 100%;
+  bottom: 5px;
+  background-color: #000000;
+  z-index: 5;
+}
+
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+}
+
+form {
+  line-height: 30px;
+  height: 80%;
+  overflow: auto;
+}
+
+img {
+ align-content: center;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.container-submit {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 700px;
+}
+
+.col-1 {
+  width: 250px;
+}
+
+.col-2 {
+  width: 250px;
+}
+
+.col-3 {
+  width: 150px;
+}
+
+.site-form {
+  margin: 15px;
+  padding: 20px;
+  background-color: #083127;
+}
